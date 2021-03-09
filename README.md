@@ -1,4 +1,4 @@
-# Serwer mutexów i condition variables
+# Mutex and condition variable minix server
 
 ### Mutexes
 Functions:
